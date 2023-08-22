@@ -3,3 +3,4 @@ hello, I am git.
 master master update111
 
 firstBranch firstBranch update222
+update github to gitee
