@@ -12,3 +12,4 @@ pullpull222
 
 测试hhtp协议push要先进行登录，才能push
 222
+测试ssh，不用要求先登录
